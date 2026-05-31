@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: students-api
-          image: dockerhub_username/students-api:latest
+          image: gaz00n/students-api:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8000
