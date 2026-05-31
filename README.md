@@ -383,3 +383,5 @@ git push -u origin main
 ## 13. Автор проекта
 
 Проект подготовлен для учебного задания КубГТУ.
+
++ Docker Hub: https://hub.docker.com/repository/docker/gaz00n/students-api/general
