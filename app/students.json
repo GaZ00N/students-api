@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "full_name": "Иванов Иван Иванович",
+    "group": "ИБ-21",
+    "course": 3,
+    "average_grade": 4.6
+  },
+  {
+    "id": 2,
+    "full_name": "Петров Петр Петрович",
+    "group": "ИБ-22",
+    "course": 2,
+    "average_grade": 4.2
+  },
+  {
+    "id": 3,
+    "full_name": "Сидорова Анна Сергеевна",
+    "group": "ИБ-21",
+    "course": 3,
+    "average_grade": 4.8
+  },
+  {
+    "full_name": "Акопян Роберт Арменович",
+    "group": "21-К-АС1",
+    "course": 5,
+    "average_grade": 5.0,
+    "id": 4
+  },
+  {
+    "full_name": "Гросс Герман Еремеевич",
+    "group": "21-К-АС1",
+    "course": 5,
+    "average_grade": 3.6,
+    "id": 5
+  },
+  {
+    "full_name": "Матушкин Павел Максимович",
+    "group": "22-К-АС1",
+    "course": 4,
+    "average_grade": 4.2,
+    "id": 6
+  },
+  {
+    "full_name": "Амзин Владислав Викторович",
+    "group": "20-К-КБ1",
+    "course": 6,
+    "average_grade": 4.4,
+    "id": 7
+  },
+  {
+    "full_name": "Вяткин Михаил Алексеевич",
+    "group": "21-К-АС1",
+    "course": 5,
+    "average_grade": 4.1,
+    "id": 8
+  },
+  {
+    "full_name": "Лякишев Михаил Васильевич",
+    "group": "21-К-АС1",
+    "course": 5,
+    "average_grade": 4.6,
+    "id": 9
+  },
+  {
+    "full_name": "Петренко Всеволод Александрович",
+    "group": "21-К-АС1",
+    "course": 5,
+    "average_grade": 3.6,
+    "id": 10
+  }
+]
